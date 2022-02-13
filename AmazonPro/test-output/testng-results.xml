@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-10T12:36:58 IST" name="Default suite" finished-at="2022-02-10T12:38:13 IST" duration-ms="74937">
+    <groups>
+    </groups>
+    <test started-at="2022-02-10T12:36:58 IST" name="Default test" finished-at="2022-02-10T12:38:13 IST" duration-ms="74937">
+      <class name="TestPackage.ChangeCurrencyAndCountrySettingTestNG">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestPackage.ChangeCurrencyAndCountrySettingTestNG@693fe6c9]" started-at="2022-02-10T12:36:58 IST" name="launchBrowser" finished-at="2022-02-10T12:37:04 IST" duration-ms="6294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="signinToAmazon()[pri:0, instance:TestPackage.ChangeCurrencyAndCountrySettingTestNG@693fe6c9]" started-at="2022-02-10T12:37:04 IST" name="signinToAmazon" finished-at="2022-02-10T12:37:21 IST" duration-ms="16544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinToAmazon -->
+        <test-method signature="changeCurrencyAsPerCOuntry()[pri:0, instance:TestPackage.ChangeCurrencyAndCountrySettingTestNG@693fe6c9]" started-at="2022-02-10T12:37:21 IST" name="changeCurrencyAsPerCOuntry" finished-at="2022-02-10T12:37:34 IST" duration-ms="13097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeCurrencyAsPerCOuntry -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestPackage.ChangeCurrencyAndCountrySettingTestNG@693fe6c9]" started-at="2022-02-10T12:37:34 IST" name="afterMethod" finished-at="2022-02-10T12:37:38 IST" duration-ms="3956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="signinToAmazon()[pri:0, instance:TestPackage.ChangeCurrencyAndCountrySettingTestNG@693fe6c9]" started-at="2022-02-10T12:37:38 IST" name="signinToAmazon" finished-at="2022-02-10T12:37:50 IST" duration-ms="11991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinToAmazon -->
+        <test-method signature="ChangeCountryAsperNation()[pri:1, instance:TestPackage.ChangeCurrencyAndCountrySettingTestNG@693fe6c9]" started-at="2022-02-10T12:37:50 IST" name="ChangeCountryAsperNation" finished-at="2022-02-10T12:38:00 IST" duration-ms="10399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeCountryAsperNation -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestPackage.ChangeCurrencyAndCountrySettingTestNG@693fe6c9]" started-at="2022-02-10T12:38:00 IST" name="afterMethod" finished-at="2022-02-10T12:38:12 IST" duration-ms="11555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestPackage.ChangeCurrencyAndCountrySettingTestNG@693fe6c9]" started-at="2022-02-10T12:38:12 IST" name="afterClass" finished-at="2022-02-10T12:38:13 IST" duration-ms="991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestPackage.ChangeCurrencyAndCountrySettingTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
